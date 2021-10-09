@@ -1,0 +1,40 @@
+#classic {
+margin: 25% auto; 
+padding: 1em 1.5em 0 1.5em;
+text-align: justify;
+}
+
+#modern {
+padding: 1em 1em 0 1em;
+background-color: #FED700;
+text-align: center;
+font-family: arial;
+}
+
+#impact {
+background-color: #90ee90;
+padding: 1em 1.3em 0 1.3em;
+border: 15px double black;
+text-align: center;
+font-family: arial;
+font-weight: 520;
+}
+
+#elise {
+background-color: fffaf0;
+
+}
+
+#one, #two  {
+display: inline-block;
+margin: 20px;
+border: 
+}
+
+#gaudi {
+border-radius: 20px 50px;
+}
+
+
+
+
